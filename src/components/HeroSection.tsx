@@ -80,7 +80,7 @@ const HeroSection = () => {
             variants={textReveal}
             className="mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground md:text-xl"
           >
-            Redwood Engineering Labs is a private network that helps senior
+            Redwood Engineering Labs is a private network that helps
             software engineers land multiple high-paying remote roles — with a
             dedicated team working alongside you every step of the way.
           </motion.p>
